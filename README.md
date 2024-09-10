@@ -7,10 +7,14 @@ Delays often result in increased costs, making timely project delivery crucial f
 
 HOW PROJECT MANAGERS CAN ENSURE THAT DEADLINES ARE MET;
   1) Project planning- This includes defining the project scope, setting objectives, and creating a detailed timeline with milestones. This step involves creating a project plan, how to gather the necessary information, selecting the right team, selecting the appropriate methodology, and getting approval from the project stakeholders.
-  2) Task prioritization- Prioritizing tasks based on their importance and urgency is fundamental. Top-priority tasks are given precedence to keep the project on track.
-  3) Resource allocation- this ensures optimal utilization and prevents bottlenecks. Allocate resources wisely, ensuring alignment with task requirements and project timelines.
-  4) Estimating time- involves two variables namely Effort and duration, The effort represents the time the work would consume without interruptions or competing priorities.
-  5) Time tracking- employing various methods to monitor their employees’ work hours.   
+   
+  2) Task prioritization- Prioritizing tasks based on their importance and urgency is fundamental. 
+   3)_Top-priority tasks are given precedence to keep the project on track.
+    
+  4) Resource allocation- this ensures optimal utilization and prevents bottlenecks. Allocate resources wisely, ensuring alignment with task requirements and project timelines.
+  5) Estimating time- involves two variables namely Effort and duration, The effort represents the time the work would consume without interruptions or competing priorities.
+    
+  6) Time tracking- employing various methods to monitor their employees’ work hours.   
   
   
 
@@ -79,24 +83,34 @@ Waterfall is particularly useful for large, complex projects with very specific 
 
 METHODS OF ENSURING QUALITY ASSURANCE;
   1)Agile approach: The Agile approach to SQA is an iterative, incremental, and flexible approach that focuses on delivering software products in small increments. This approach emphasizes collaboration between the development team and the stakeholders for a seamless and quick development process.
+  
    2)DevOps approach: This is basically a combination of development and IT operations to ensure that the software product meets the requirements of the customers. This approach emphasizes collaboration, automation, and continuous delivery to deliver the software product quickly and efficiently.
-    3)Six Sigma approach: This is a data-driven approach that focuses on reducing defects and errors in the software product. The approach uses statistical tools and techniques to measure and improve the quality of the software product.
-    4)Lean approach: This is an approach that focuses on efficiency and waste reduction in the software development process. It emphasizes continuous improvement and the elimination of non-value-added activities. It is suitable for projects that require a focus on efficiency and waste reduction.
-    5)Continuous integration and continuous deployment (CI/CD) approach: This is an approach that focuses on continuous integration and deployment of software products. The CI/CD approach emphasizes automation, continuous testing, and continuous delivery of software products. It is suitable for projects that require continuous integration and deployment.
+   
+  3)Six Sigma approach: This is a data-driven approach that focuses on reducing defects and errors in the software product. The approach uses statistical tools and techniques to measure and improve the quality of the software product.
+    
+   4)Lean approach: This is an approach that focuses on efficiency and waste reduction in the software development process. It emphasizes continuous improvement and the elimination of non-value-added activities. It is suitable for projects that require a focus on efficiency and waste reduction.
+    
+   5)Continuous integration and continuous deployment (CI/CD) approach: This is an approach that focuses on continuous integration and deployment of software products. The CI/CD approach emphasizes automation, continuous testing, and continuous delivery of software products. It is suitable for projects that require continuous integration and deployment.
 
   IMPORTANCE OF MAINTAINING HIGH STANDARDS;
   
    1)Ensures a high-quality software product:  High standards ensures that the software meets the specified quality standards and requirements. This results in software that is more reliable, efficient, and user-friendly.
-  2)Saves time and money: SQA ensures that the developers find bugs and errors at the early stages of software development. Therefore, they spend a lot less time and money fixing them. 
+   
+  2)Saves time and money: SQA ensures that the developers find bugs and errors at the early stages of software development. Therefore, they spend a lot less time and money fixing them.
+  
    3)Builds a stable and competitive software product: Software architects specifically vet each block in the software development process against industry standards. Granular testing for different requirements like reliability, functionality, usability, portability, etc., helps ensure that their product is high-quality.
+   
    4)Protects your company’s reputation: Businesses need to ensure that their product works as intended before releasing it into the market. If the customers notice the product’s errors before you do, it will significantly impact your brand image and reputation.
-    5)Ensures security and compliance: Software quality assurance helps organizations ensure that their application is efficient, secure, and trustworthy. Most importantly, it helps them meet regulatory and industry-specific compliance requirements, such as those related to security and data privacy
+   
+  5)Ensures security and compliance: Software quality assurance helps organizations ensure that their application is efficient, secure, and trustworthy. Most importantly, it helps them meet regulatory and industry-specific compliance requirements, such as those related to security and data privacy
 
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
 1) Realistic timelines-Managing project scope will prevent you and your team from blowing past your original end date. When you know exactly what’s required to complete a project, you have a much easier time setting a realistic deadline you can actually honor.
+ 
 2) Accurate budgets-Defining the scope helps you set a reasonable budget in the first place, and monitoring the scope as your team makes progress will help you stick with that number
+ 
 3) Efficient projects-Defining and managing your project scope enables your team to deliver projects efficiently in accordance with the original requirements, rather than letting them continue to snowball.
 
    Work Breakdown Structure  is a visual, hierarchical and deliverable-oriented deconstruction of a project. It is a helpful diagram for project managers because it allows them to break down their project scope and visualize all the tasks required to complete their projects.
@@ -114,8 +128,11 @@ METHODS OF ENSURING QUALITY ASSURANCE;
 
 BENEFITS OF PROJECT SCEDULE;
   1) Prioritization-  project schedule allows work to be prioritized. As the team can see all the activity-level information required, they can make sure tasks are done in the right order and with the right level of urgency.
+   
   2) Tracking- Schedules allow the project manager to track and monitor progress. They provide valuable information to the Earned Value management system.
-  3) Resource management- Resource requirements are identified during the scheduling process. While you might not have all the staffing details for the entire project when you first start creating the timeline in your project management software, you will be able to add in the resource allocation when this is known.
+   
+   3) Resource management- Resource requirements are identified during the scheduling process. While you might not have all the staffing details for the entire project when you first start creating the timeline in your project management software, you will be able to add in the resource allocation when this is known.
+   
   4) Risk management- A detailed view of your project schedule, the timeline, and resources required, enables the team to identify and act on risk more effectively, especially when it relates to tasks that are on the critical path
 
 HOW CAN GANTT CHARTS ASSIST;
@@ -126,9 +143,13 @@ HOW CAN GANTT CHARTS ASSIST;
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ISSUES ;
   i)Insufficient Planning and Requirement Gathering-Skipping or rushing through these crucial initial stages can lead to misunderstandings, unclear goals, and misaligned expectations.
+  
   ii) Poor Communication and Collaboration- breakdowns in communication can occur between team members, clients, and other stakeholders, leading to delays, errors, and frustrations.
+  
   iii) Inadequate Testing and Quality Assurance-  insufficient testing and quality assurance measures can result in software that is prone to bugs, vulnerabilities, and usability issues. To address this problem, it is crucial to implement a comprehensive testing strategy throughout the development lifecycle.
+  
   iv)Lack of Documentation- insufficient documentation can lead to confusion, hinder knowledge transfer, and impede future enhancements or maintenance.
+  
   v) Technical Debt Accumulation- refers to the consequences of choosing quick and easy solutions over long-term, sustainable ones. It can arise from shortcuts, poor coding practices, or outdated technologies.
 
 
@@ -142,6 +163,22 @@ ISSUES ;
 
 ## 11. What are the main features or functionalities that make your software stand out?
 
+  -High quality code- Helps gaining client’s trust and satisfaction more and more companies will be interested in working with them
+  
+  - Trustful communication- It is super important for the developers to stay in touch with the client, constantly informing them about the progress made or challenges encountered, that is the people who actually do the job.
+    
+  - Agile approach- Agility is about creating a product as a result of a collaborative effort of a self-organized and cross-functional team together with its clients
+
+    -
+
 
 ## 12. What data is available regarding the market size and growth potential for your software?
+
+Revenue in the Software market is projected to reach US$704.10bn in 2024.
+Enterprise Software dominates the market with a projected market volume of US$295.20bn in 2024.
+Revenue is expected to show an annual growth rate (CAGR 2024-2029) of 5.01%, resulting in a market volume of US$898.90bn by 2029.
+In global comparison, most revenue will be generated in the United States (US$363.40bn in 2024).
+
+
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
